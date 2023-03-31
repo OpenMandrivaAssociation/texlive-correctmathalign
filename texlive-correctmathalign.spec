@@ -1,6 +1,6 @@
 Name:		texlive-correctmathalign
 Version:	44131
-Release:	1
+Release:	2
 Summary:	Correct spacing of the alignment in expressions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/correctmathalign
