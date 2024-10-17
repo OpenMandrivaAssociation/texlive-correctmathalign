@@ -3,7 +3,7 @@ Version:	44131
 Release:	2
 Summary:	Correct spacing of the alignment in expressions
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/correctmathalign
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/correctmathalign
 License:	bsd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/correctmathalign.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/correctmathalign.doc.r%{version}.tar.xz
